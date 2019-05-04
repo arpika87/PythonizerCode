@@ -1,6 +1,6 @@
 # PythonizerCode
 The Bot made on Python, Feel Free to use.
 
-Code: [Please wait...]
+Code: https://raw.githubusercontent.com/TLWXPUser/PythonizerCode/master/bot.py
 
 This bot was made by XPUser
